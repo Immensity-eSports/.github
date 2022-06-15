@@ -2,6 +2,9 @@
 Hi! From the technical team of Immensity we send you our best regards! We are a high performance international esports club looking to be in the professional top
 and for that we will need the best technology available, so we will be developing for Immensity in the best possible way!
 
+#Our Technical Team Roster 🦾
+- [Galasso](https://github.com/GalassoX) - **Head Leader TI, Web developer.**
+- [xWxcT](https://github.com/xWxcT) - **Web Developer, SysAdmin, Bot Developer.**
 <!--
 
 **Here are some ideas to get you started:**
