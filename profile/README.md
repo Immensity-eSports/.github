@@ -3,6 +3,7 @@ Hi! From the technical team of Immensity we send you our best regards! We are a 
 and for that we will need the best technology available, so we will be developing for Immensity in the best possible way!
 
 #Our Technical Team Roster 🦾
+- [Flussen](https://github.com/Flussen) - CEO, Coordination and management of the technical team
 - [Galasso](https://github.com/GalassoX) - **Head Leader TI, Web developer.**
 - [xWxcT](https://github.com/xWxcT) - **Web Developer, SysAdmin, Bot Developer.**
 <!--
