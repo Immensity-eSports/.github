@@ -5,7 +5,7 @@ and for that we will need the best technology available, so we will be developin
 #Our Technical Team Roster 🦾
 - [Flussen](https://github.com/Flussen) - **CEO, Coordination and management of the technical team**
 - [Galasso](https://github.com/GalassoX) - **Head Leader TI, Web developer.**
-- [xWxcT](https://github.com/xWxcT) - **Web Developer, SysAdmin, Bot Developer.**
+- [Jaro-c](https://github.com/Jaro-c) - **Web Developer, SysAdmin, Bot Developer.**
 <!--
 
 **Here are some ideas to get you started:**
